@@ -1,0 +1,3 @@
+graft git_test
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  git_test/jupy *
